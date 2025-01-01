@@ -1,10 +1,9 @@
 # FDP AIML
 Resources for FDP program on AIML
 
-## Program Schedule
+## Practise Jupyter Notebooks
 ### Day 1: Foundations and Machine Learning Basics 
 
-### Practise Jupyter Notebooks
 [1. Python_Datatypes_Operators.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_1/01_Python_Datatypes_Operators.ipynb)  
 
 [2. Python_Plotting.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_1/02_Python_Plotting.ipynb)  
