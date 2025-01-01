@@ -18,7 +18,9 @@ Resources for FDP program on AIML
 ### Day 2: Advanced Machine Learning and Neural Networks
 
 [1. KMeans_clustering_library_sample_code.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/01_KMeans_clustering_library_sample_code.ipynb)
+
 [2. Bias_Variance.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/02_Bias_Variance.ipynb)
+
 [3. DNN_sample_notebook.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/03_DNN_sample_notebook.ipynb)
 
 
