@@ -1,4 +1,4 @@
-# FDPAIML
+# FDP AIML
 Resources for FDP program on AIML
 
 ## Program Schedule
