@@ -39,5 +39,6 @@ Resources for FDP program on AIML
 
 ### Day 5: Assignments & Tasks
 
+## Please provide your daily feedback via the link [here](https://futurepicx.com/feedback?id=0B7F5D6C-DDA2-4E1F-A541-C929EDFDD7BC)
 
 
