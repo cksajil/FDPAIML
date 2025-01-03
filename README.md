@@ -26,9 +26,11 @@ Resources for FDP program on AIML
 
 [1. KMeans_clustering_library.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/01_KMeans_clustering_library_sample_code.ipynb)
 
-[2. Bias_Variance.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/02_Bias_Variance.ipynb)
+[2. K_Mean_Clustering_from_scratch.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/02_K_Mean_Clustering_from_scratch.ipynb)
 
-[3. DNN_sample_notebook.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/03_DNN_sample_notebook.ipynb)
+[3. Bias_Variance.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/02_Bias_Variance.ipynb)
+
+[4. DNN_sample_notebook.ipynb](https://github.com/cksajil/FDPAIML/blob/main/Day_2/03_DNN_sample_notebook.ipynb)
 
 
 
